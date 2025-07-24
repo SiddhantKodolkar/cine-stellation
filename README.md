@@ -61,15 +61,3 @@ Built using:
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repo and follow the instructions in [`/frontend`](./frontend) and [`/backend`](./backend) directories to spin up the app locally.
-
-```bash
-git clone https://github.com/SiddhantKodolkar/cine-stellation.git
-cd cine-stellation
-# Refer to frontend/ and backend/ READMEs
-
-
-
-

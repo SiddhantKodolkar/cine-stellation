@@ -22,10 +22,10 @@ Built using:
 - Interactive constellation view of 5,000+ movies.
 - Visualizes similarity between movies using cosine distance.
 - Hover to explore genres and top matches.
-- Click **"Mark as watched"** to generate graph-linked recommendations in real time.
+- Click **"Mark as watched"** to generate 5 more graph-linked recommendations in real time.
 
+<img width="1184" height="678" alt="image" src="https://github.com/user-attachments/assets/27eee2e2-8c33-4990-9d55-f8c217f4f827" />
 
-<img width="1062" height="849" alt="image" src="https://github.com/user-attachments/assets/7414b1b6-60c6-41fe-8fee-e435f2aa2980" />
 
 ---
 
@@ -35,7 +35,8 @@ Built using:
 - Uses `all-mpnet-base-v2` (Sentence Transformers) to encode and retrieve semantically similar plots.
 - Displays best-matching title, confidence score, overview, release date, and cast.
 
-<img width="1184" height="678" alt="image" src="https://github.com/user-attachments/assets/27eee2e2-8c33-4990-9d55-f8c217f4f827" />
+<img width="1062" height="849" alt="image" src="https://github.com/user-attachments/assets/7414b1b6-60c6-41fe-8fee-e435f2aa2980" />
+
 
 ---
 
